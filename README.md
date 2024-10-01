@@ -1,4 +1,10 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I+like+it%2C+and+I'm+good+at+it.)](https://git.io/typing-svg)
+# Hi there 👋
+
+## About Me
+
+- 👨‍🎓 I'm a senior student majoring in Information Engineering.
+- 🌱 I’m currently learning LLMs and Robust AI.
 
 <!--
 **wind4110/wind4110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
