@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I+like+it%2C+and+I'm+good+at+it.)](https://git.io/typing-svg)
 # Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+like+it%2C+and+I'm+good+at+it.)](https://git.io/typing-svg)
 ## About Me
 
 - 👨‍🎓 I'm a senior student majoring in Information Engineering.
