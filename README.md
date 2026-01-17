@@ -1,8 +1,8 @@
-# Hi there 👋
+<!--# Hi there 👋
 ## About Me
 - 👨‍🎓 I'm a PhD student.
 - 🌱 I’m currently learning LLMs and Robust AI.
-
+-->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+like+it%2C+and+I'm+good+at+it.)
 <!--
 **wind4110/wind4110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
